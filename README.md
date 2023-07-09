@@ -1,4 +1,4 @@
-# Tomato Disease Detection
+# Chicken Disease Detection
 
 
 A Convolutional Neural Network (CNWeb app to predict disease from chicken's faeces. Technology stack: tensorflow, tf dataset, tf serving, FastAPI, data augmentation, react js, react native.
